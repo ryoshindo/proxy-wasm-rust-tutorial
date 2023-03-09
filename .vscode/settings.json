@@ -1,0 +1,8 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./hello_world/Cargo.toml",
+    "./http_body/Cargo.toml",
+    "./http_config/Cargo.toml",
+    "./http_headers/Cargo.toml"
+  ]
+}
