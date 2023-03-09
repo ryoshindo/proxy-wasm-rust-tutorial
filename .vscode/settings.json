@@ -3,6 +3,7 @@
     "./hello_world/Cargo.toml",
     "./http_body/Cargo.toml",
     "./http_config/Cargo.toml",
-    "./http_headers/Cargo.toml"
+    "./http_headers/Cargo.toml",
+    "./http_auth_random/Cargo.toml"
   ]
 }
